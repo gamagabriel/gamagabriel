@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Gama 👋
+### Olá!👋
 
 - ☕ Apaixonado pela tecnologia e por desafios constantes
 - Programo em Java + SpringBoot, API Rest e Microsserviços (:
