@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gabriel Gama 👋
 
-- ☕ Atualmente estudo Java, SpringBoot, API Rest e Microsserviços.
+- ☕ Apaixonado pela tecnologia e por desafios constantes
+- Programo em Java + SpringBoot, API Rest e Microsserviços (:
 <div align="center">
   <a href="https://github.com/gamagabriel">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamagabriel&layout=compact&langs_count=7&theme=dracula"/>
