@@ -1,6 +1,7 @@
 ### Olá!👋
 
-☕ Apaixonado pela tecnologia e por desafios constantes
+☕ Apaixonado pela tecnologia e por desafios constantes.
+
 Programo usando:
 
 - Java 17;
