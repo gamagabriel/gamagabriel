@@ -4,7 +4,7 @@
 
 Programo usando:
 
-- Java 11+;
+- Java 17;
 - Java Patterns: MVC, Microservices, Repository, CircuitBraker;
 - Java Frameworks: Spring, SpringBoot, Lombok, JPA + Hibernate, Spring JPA;
 - Java tests: JUnit, Mockito.
