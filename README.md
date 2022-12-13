@@ -14,6 +14,7 @@ SpringBoot:
  
 DataBase (Relacionais/Não relacionais): 
 - H2;
+- Redis;
 - MySQL;
 -  MongoDB.
   <div align="center"> 
