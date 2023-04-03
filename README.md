@@ -17,11 +17,11 @@ DevOps:
  - Docker;
  - AWS.
  
-DataBase (Relacionais/Não relacionais): 
+DataBase: 
 - H2;
 - Redis;
 - MySQL;
--  MongoDB.
+- MongoDB.
 
   <div align="center"> 
     <a href="https://www.linkedin.com/in/gamagabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
