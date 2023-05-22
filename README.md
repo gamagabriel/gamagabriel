@@ -7,7 +7,7 @@ Programo usando:
 - Java 8, 11, 17;
 - Java Patterns: MVC, Microservices, Repository, CircuitBraker;
 - Java Frameworks: Spring, SpringBoot, Lombok, JPA com Hibernate, Spring JPA, Thymeleaf;
-- Java tests: JUnit, Mockito, TDD.
+- Java tests: JUnit, Mockito, TDD, testes de contrato com Pact.
  
 SpringBoot: 
 - Eureka, Hystrix, Zuul, JSON com SpringBoot.
