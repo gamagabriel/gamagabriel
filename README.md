@@ -1,13 +1,13 @@
-### Olá!👋
+### Hi!👋
 
-☕ Apaixonado pela tecnologia e por desafios constantes.
+☕  Brazilian, curious, technology lover and Java programmer.
 
-Programo usando:
+I work with:
 
 - Java 8, 11, 17;
 - Java Patterns: MVC, Microservices, Repository, CircuitBraker;
 - Java Frameworks: Spring, SpringBoot, Lombok, JPA com Hibernate, Spring JPA, Thymeleaf;
-- Java tests: JUnit, Mockito, TDD, testes de contrato com Pact.
+- Java tests: JUnit, Mockito, TDD, Pact.
  
 SpringBoot: 
 - Eureka, Hystrix, Zuul, JSON com SpringBoot.
