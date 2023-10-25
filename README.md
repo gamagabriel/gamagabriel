@@ -4,7 +4,7 @@
 
 I work with:
 
-- Java 8, 11, 17;
+- Java 8, 11, 17, 21;
 - Java Patterns: MVC, Microservices, Repository, CircuitBraker;
 - Java Frameworks: Spring, SpringBoot, Lombok, JPA com Hibernate, Spring JPA, Thymeleaf;
 - Java tests: JUnit, Mockito, TDD, Pact.
@@ -12,6 +12,7 @@ I work with:
 SpringBoot: 
 - Eureka, Hystrix, Zuul, JSON com SpringBoot.
 - Java Event Driven: Kafka, Amazon SQS
+- Spring Native
 
 DevOps:
  - Docker;
