@@ -7,7 +7,7 @@ I work with:
 - Java 8, 11, 17, 21;
 - Java Patterns: MVC, Microservices, Repository, CircuitBraker;
 - Java Frameworks: Spring, SpringBoot, Lombok, JPA com Hibernate, Spring JPA, Thymeleaf;
-- Java tests: JUnit, Mockito, TDD, Pact.
+- Java tests: JUnit, Mockito, TDD, Pact, End to End.
  
 SpringBoot: 
 - Eureka, Hystrix, Zuul, JSON com SpringBoot.
@@ -16,8 +16,9 @@ SpringBoot:
 
 DevOps:
  - Docker;
- - AWS.
- 
+ - AWS;
+ - k8s;
+
 DataBase: 
 - H2;
 - Redis;
