@@ -16,8 +16,8 @@ SpringBoot:
 
 DevOps:
  - Docker;
- - AWS;
- - k8s;
+ - AWS (Certified AWS Practitioner Essentials);
+ - Kubernetes;
 
 DataBase: 
 - Postgrees;
