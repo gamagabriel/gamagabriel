@@ -20,10 +20,11 @@ DevOps:
  - k8s;
 
 DataBase: 
-- H2;
-- Redis;
+- Postgrees;
 - MySQL;
 - MongoDB.
+- Redis;
+- H2;
 
   <div align="center"> 
     <a href="https://www.linkedin.com/in/gamagabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
